@@ -109,9 +109,8 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![WhatsApp Image 2026-03-20 at 10 30 29 AM](https://github.com/user-attachments/assets/22715c15-cbd1-4236-b7f1-33696fe0d773)
 
-CASE 2: LED OFF
 
----
 ### RESULT
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
